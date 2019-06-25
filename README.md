@@ -11,7 +11,7 @@
 
 ## Cara Untuk Menambahkan Daftar Baru
 
-+ Open issue baru pada repository ini.
++ **Pastikan kalian tidak menambahkan nama kalian sendiri**, *lebih baik jika kalian di promote orang lain daripada self-claiming* 😅
 + Bila berkenan menambahkan sendiri, silakan fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini
 + Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan **Abjad (*alphabet*)** dari namanya
@@ -23,13 +23,22 @@
 ## A
 
 + **Ade Yahya Prasetyo**
-  - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #React, #ReactNative, #NodeJs, GraphQL
+  - Github: Github: [adeyahya](https://github.com/adeyahya)
+  - Facebook: [Ade Yahya Prasetyo](https://www.facebook.com/adeyahyap)
+  - Twitter: [@adeyahyap](https://twitter.com/adeyahyap)
+  - LinkedIn: [Ade Yahya Prasetyo](https://www.linkedin.com/in/adeyahyap/)
+  - Blog: [www.ihavemind.com](https://www.ihavemind.com)
   - Medium: [@adeyahya](https://medium.com/@adeyahya)
+
++ **Adiatma Kamarudin**
+  - Skills: #ReactJS, #GraphQL, #Webpack, #TypeScript, #Flow
+  - Github: [adiatma9024](https://github.com/adiatma9024)
+  - Facebook: [Adiatma Kamarudin](https://www.facebook.com/adiatma.kamarudin)
+  - Twitter: N/A
+  - LinkedIn: [Adiatma Kamarudin](https://www.linkedin.com/in/adiatma-kamarudin-a63718138)
+  - Blog: [adiatma9024.github.io](https://adiatma9024.github.io)
+  - Medium: [@tutorjs](https://medium.com/tutorjs)
 
 + **Afrimadoni Dinata**
   - Skills: N/A
@@ -40,6 +49,15 @@
   - Blog: N/A
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 
++ **Afrian Junior**
+  - Skills: #React
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Afrian Junior](https://www.linkedin.com/in/afrianjunior/)
+  - Blog: N/A
+  - Medium: N/A
+
 + **Agastya Darma Laksana**
   - Skills: #React
   - Github: N/A
@@ -48,6 +66,15 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@agastyadarma](https://medium.com/@agastyadarma)
+
++ **Agung Surya Bangsa**
+  - Skills: #React #ReactNative #Angular #Fluter
+  - Github: [@agungsb](https://github.com/agungsb)
+  - Facebook: [Agung Surya Bangsa](https://www.facebook.com/agung.lth)
+  - Twitter: N/A
+  - LinkedIn: [Agung Surya Bangsa](https://www.linkedin.com/in/agung-surya-bangsa-22615495/)
+  - Blog: N/A
+  - Medium: [@agungsurya](https://medium.com/@agungsurya)
 
 + **Alfred Crosby**
   - Skills: #React
@@ -75,16 +102,44 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@ariyahidayat](https://medium.com/@ariyahidayat)
+  
++ **Asendia Mayco**
+  - Skills: #ReactJs
+  - Github: [asendia](https://github.com/asendia)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## B
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## C
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## D
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## E
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## F
+
++ **Fachruzi Ramadhan**
+  - Skills: N/A
+  - Github: N/A
+  - Facebook: [Fachruzi Ramadhan](https://www.facebook.com/dhanpris)
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
 
 + **Fariz Rizaldy**
   - Skills: N/A
@@ -96,15 +151,28 @@
   - Medium: [@108kb](https://medium.com/@108kb)
   
 + **Fatih Kalifa**
-  - Skills: #React, #NodeJs
+  - Skills: #React, #NodeJs, #ReasonML, #Svelte, #Rust, #GraphQL
   - Github: [pveyes](https://github.com/pveyes)
   - Facebook: [pveyes](https://www.facebook.com/pveyes)
   - Twitter: [@pveyes](https://twitter.com/pveyes)
+  - LinkedIn: [fatihkalifa](https://www.linkedin.com/in/fatihkalifa/)
+  - Blog: [fatihkalifa.com](https://fatihkalifa.com/)
+  - Medium: [@pveyes](https://medium.com/@pveyes)
+
++ **Fawwaz Muhammad**
+  - Skills: #React, #NodeJs
+  - Github: [fawwaz](https://github.com/fawwaz)
+  - Facebook: [fawwazmuhammad](http://facebook.com/fawwazmuhammad)
+  - Twitter: [@fawwaz_muhammad](http://twitter.com/fawwaz_muhammad)
   - LinkedIn: N/A
-  - Blog: N/A
+  - Blog: [fawwazmuhammad.com](http://fawwazmuhammad.com/)
   - Medium: N/A
+  
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## G
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## H
 
@@ -117,7 +185,20 @@
   - Blog: N/A
   - Medium: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## I
+
++ **Irfan Maulana**
+  - Skills: #Vue
+  - Github: Github: [@mazipan](https://github.com/mazipan)
+  - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
+  - Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
+  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/irfanmaulanamazipan)
+  - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
+  - Medium: [@mazipan](https://medium.com/@mazipan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## J
 
@@ -148,8 +229,29 @@
   - Blog: N/A
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
++ **Julian Alimin**
+  - Skills: #Angular, #NodeJs
+  - Github: [dmastag](https://github.com/dmastag)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+  
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## K
 
++ **Kevin Hermawan**
+  - Skills: #React
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@kevinhermawan](https://medium.com/kevinhermawan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## L
 
@@ -170,6 +272,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@dwicao](https://medium.com/@dwicao)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## M
 
@@ -200,6 +304,8 @@
   - Blog: [muhibbudins.me](https://muhibbudins.me/)
   - Medium: [@muhibbudins](https://medium.com/@muhibbudins)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## N
 
 + **Naufal Rabbani**
@@ -211,7 +317,11 @@
   - Blog: N/A
   - Medium: [@BosNaufal](https://medium.com/@BosNaufal)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## O
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## P
 
@@ -226,11 +336,11 @@
 
 + **Pradita Utama**
   - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [praditautama](https://github.com/praditautama)
+  - Facebook: [Pradita Utama](https://www.facebook.com/pradita.utama)
+  - Twitter: [@praditautama](https://twitter.com/praditautama)
+  - LinkedIn: [Pradita Utama](https://www.linkedin.com/in/praditautama/)
+  - Blog: [Pradita Utama](https://www.praditautama.com/)
   - Medium: [@pradita.utama](https://medium.com/@pradita.utama)
 
 + **Pramesti Hatta K.**
@@ -242,11 +352,22 @@
   - Blog: N/A
   - Medium: [@opam22](https://medium.com/@opam22)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Q
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## R
+
++ **Rahmat Hidayat**
+  - Skills: #React, #TypeScript, #NodeJs, #GraphQL
+  - Github: [@rahmatrhd](https://github.com/rahmatrhd)
+  - Facebook: N/A
+  - Twitter: [@rahmathd_](https://twitter.com/rahmathd_)
+  - LinkedIn: [@rahmat-hidayat](https://www.linkedin.com/in/rahmat-hidayat-8671a268/)
+  - Blog: [rahmathd.com](https://www.rahmathd.com/)
+  - Medium: N/A
 
 + **Resi Respati**
   - Skills: #React, #TypeScript
@@ -285,7 +406,6 @@
   - Blog: N/A
   - Medium: [@rizal_hilman](https://medium.com/@rizal_hilman)
 
-
 + **Rizki Romadhoni**
   - Skills: #React
   - Github: N/A
@@ -297,12 +417,14 @@
   
 + **R AdySurya A**
   - Skills: #React
-  - Github: N/A
+  - Github: [@ri7nz](https://github.com/@ri7nz)
   - Facebook: N/A
-  - Twitter: N/A
+  - Twitter: [@ri7nz](https://twitter.com/ri7nz)
   - LinkedIn: N/A
-  - Blog: N/A
+  - Blog: [rin.rocks](https://rin.rocks/)
   - Medium: [@ri7nz](https://medium.com/@ri7nz)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## S
 
@@ -316,23 +438,35 @@
   - Medium: [@sastranababan](https://medium.com/@sastranababan)
 
 + **Sonny Lazuardi**
-  - Skills: #React, #ReactNative
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #React, #ReactNative, #NodeJs, #Typescript, #GraphQL
+  - Github: [sonnylazuardi](https://github.com/sonnylazuardi)
+  - Facebook: [Sonny Lazuardi](https://facebook.com/sonny.lazuardi)
+  - Twitter: [@sonnylazuardii](https://twitter.com/sonnylazuardi)
+  - LinkedIn: [Sonny Lazuardi](https://sg.linkedin.com/in/sonnylazuardi)
+  - Blog: https://sonnylab.com
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## T
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## U
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## V
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## W
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## X
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Y
 
@@ -344,6 +478,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@tyohan](https://medium.com/@tyohan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Z
 
@@ -364,6 +500,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ----
 
