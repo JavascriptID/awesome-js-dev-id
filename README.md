@@ -85,6 +85,15 @@
   - Blog: N/A
   - Medium: [@alfrcr](https://medium.com/@alfrcr)
 
++ **Andhika Ventausa**
+  - Skills: #React #ReactNative #GraphQL
+  - Github: N/A
+  - Facebook: [Andhika Ventausa](https://www.facebook.com/avent08)
+  - Twitter: [@avent08](https://twitter.com/avent08)
+  - LinkedIn: [Andhika Ventausa](https://linkedin.com/in/andhikaventausa)
+  - Blog: N/A
+  - Medium: N/A
+
 + **Antony Budianto**
   - Skills: #React
   - Github: [@antonybudianto](https://github.com/antonybudianto)
@@ -123,6 +132,15 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## D
+
+  **Dwi Agustianto**
+  - Skills: #Angular, #Svelte, #WebDesign, #Flow
+  - Github: [agusID](https://github.com/agusID)
+  - Facebook: [Dwi Agustianto](https://www.facebook.com/me.agusdwi)
+  - Twitter: N/A
+  - LinkedIn: [Dwi Agustianto](https://www.linkedin.com/in/agusid/)
+  - Blog: [agusdwi.id](https://agusdwi.id)
+  - Medium: [@agusdwi](https://medium.com/@agusdwi)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -189,12 +207,21 @@
 
 ## I
 
++ **Igar Ramaddhan**
+  - Skills: #React #NodeJS
+  - Github: Github: [@igarramaddhan](https://github.com/igarramaddhan)
+  - Facebook: [Igar Ramaddhan](https://www.facebook.com/igarramaddhan)
+  - Twitter: [@igarramaddhan](https://twitter.com/igarramaddhan)
+  - LinkedIn: [Igar Ramaddhan](https://www.linkedin.com/in/igar-ramaddhan-55b499140)
+  - Blog: [ynrk.tk](https://ynrk.tk/)
+  - Medium: N/A
+  
 + **Irfan Maulana**
   - Skills: #Vue
-  - Github: Github: [@mazipan](https://github.com/mazipan)
+  - Github: [@mazipan](https://github.com/mazipan)
   - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
-  - Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
-  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/irfanmaulanamazipan)
+  - Twitter: [@maz_ipan](https://twitter.com/Maz_Ipan)
+  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/mazipan)
   - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
   - Medium: [@mazipan](https://medium.com/@mazipan)
 
