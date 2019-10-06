@@ -68,7 +68,7 @@
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
-  - LinkedIn: N/A
+  - LinkedIn: [I Gede Agastya Darma Laksana](https://id.linkedin.com/in/agastyadarma/en)
   - Blog: N/A
   - Medium: [@agastyadarma](https://medium.com/@agastyadarma)
 
@@ -82,11 +82,11 @@
   - Medium: [@agungsurya](https://medium.com/@agungsurya)
 
 + **Alfred Crosby**
-  - Skills: #React
+  - Skills: #React #SQL #Docker #Kubernetes
   - Github: N/A
-  - Facebook: N/A
+  - Facebook: [Putu Alfred Crosby](https://www.facebook.com/putualfredcrosby)
   - Twitter: N/A
-  - LinkedIn: N/A
+  - LinkedIn: [I Putu Alfred Crosby](https://www.linkedin.com/in/i-putu-alfred-crosby-239170186/)
   - Blog: N/A
   - Medium: [@alfrcr](https://medium.com/@alfrcr)
 
@@ -119,11 +119,11 @@
   
 + **Ariya Hidayat**
   - Skills: N/A
-  - Github: N/A
+  - Github: [@ariya](https://github.com/ariya)
   - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Twitter: [Ariya Hidayat](https://twitter.com/ariyahidayat?lang=en)
+  - LinkedIn: [Ariya Hidayat](https://www.linkedin.com/in/ariyahidayat)
+  - Blog: [ariya.io](https://ariya.io/)
   - Medium: [@ariyahidayat](https://medium.com/@ariyahidayat)
   
 + **Asendia Mayco**
@@ -147,6 +147,24 @@
 
 ## D
 
++ **Diky Arga Anggara**
+  - Skills: #React #NodeJS #Vue
+  - Github: [@dikyarga](https://github.com/dikyarga)
+  - Facebook: [Diky Arga Anggara](https://id-id.facebook.com/dikyargaID)
+  - Twitter: [Diky Arga](https://twitter.com/dikyarga?lang=en)
+  - LinkedIn: [Diky Arga Anggara](https://id.linkedin.com/in/dikyarga)
+  - Blog: [dikyarga.com](https://dikyarga.com/)
+  - Medium: N/A
+
+  **Dimitri Wahyudiputra**
+  - Skills: #Javascript #Vim
+  - Github: [@dmtrxw](https://github.com/dmtrxw)
+  - Facebook: N/A
+  - Twitter: [Dimitri Wahyudiputra](https://twitter.com/dmtrxw?lang=en)
+  - LinkedIn: [Dimitri Wahyudiputra](https://www.linkedin.com/in/dimitri-wahyudiputra/)
+  - Blog: [wahyudiputra.com](https://wahyudiputra.com/)
+  - Medium: [Dimitri Wahyudiputra](https://medium.com/@dimitri.wahyudiputra)
+
   **Dwi Agustianto**
   - Skills: #Angular, #Svelte, #WebDesign, #Flow
   - Github: [agusID](https://github.com/agusID)
@@ -159,6 +177,15 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## E
+
++ **Eka**
+  - Skills: N/A
+  - Github: [ekafyi](https://github.com/ekafyi)
+  - Facebook: N/A
+  - Twitter: [@ekafyi](https://twitter.com/ekafyi)
+  - LinkedIn: N/A
+  - Blog: [dev.to/ekafyi](https://dev.to/ekafyi)
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -203,6 +230,15 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## G
+
++ **Gazandi Cahyadarma**
+  - Skills: #React, #NodeJs, #Go, #Ruby, #Java
+  - Github: [gazandic](https://github.com/gazandic)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Gazandi Cahyadarma](https://www.linkedin.com/in/gazandi-cahyadarma-86b726a1)
+  - Blog: N/A
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -263,11 +299,11 @@
   
 + **Jihad Dzikri Waspada**
   - Skills: #React, #TypeScript
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [@dewey92](https://github.com/dewey92)
+  - Facebook: [Jihad Dzikri Waspada](https://www.facebook.com/dewey.macro)
+  - Twitter: [@dewey92](https://twitter.com/Dewey92)
+  - LinkedIn: [Jihad Dzikri Waspada](https://nl.linkedin.com/in/jihadw)
+  - Blog: [jihadwaspada.com](https://www.jihadwaspada.com/)
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
 + **Julian Alimin**
@@ -431,11 +467,11 @@
 
 + **Riza Fahmi**
   - Skills: #React, #NodeJs
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [@rizafahmi](https://github.com/rizafahmi)
+  - Facebook: [@rizafahmi](https://www.facebook.com/rizafahmi)
+  - Twitter: [@rizafahmi22](https://twitter.com/rizafahmi22?lang=en)
+  - LinkedIn: [Riza Fahmi](https://id.linkedin.com/in/rizafahmi)
+  - Blog: [rizafahmi.com](https://rizafahmi.com/)
   - Medium: [@rizafahmi22](https://medium.com/@rizafahmi22)
 
 + **Rizal Hilman**
@@ -461,7 +497,7 @@
   - Github: [@ri7nz](https://github.com/@ri7nz)
   - Facebook: N/A
   - Twitter: [@ri7nz](https://twitter.com/ri7nz)
-  - LinkedIn: N/A
+  - LinkedIn: [R Adysurya Agus](https://www.linkedin.com/in/r-adysurya-agus/)
   - Blog: [rin.rocks](https://rin.rocks/)
   - Medium: [@ri7nz](https://medium.com/@ri7nz)
 
@@ -471,11 +507,11 @@
 
 + **Sastra Panca Nababan**
   - Skills: #NodeJs #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [Sastra Nababan](https://github.com/SastraNababan)
+  - Facebook: [Sastra Panca Nababan](https://www.facebook.com/sastranababan)
+  - Twitter: [Sastra Nababan](https://twitter.com/sastranababan?lang=en)
+  - LinkedIn: [Sastra Nababan](https://id.linkedin.com/in/sastranababan)
+  - Blog: http://sastranababan.com/
   - Medium: [@sastranababan](https://medium.com/@sastranababan)
 
 + **Sonny Lazuardi**
@@ -491,6 +527,26 @@
 
 ## T
 
+
++ **Teofilus Candra**
+  - Skills: #React, #NodeJs, #ReactNative, #Vue
+  - Github: https://github.com/teofiluscandra
+  - Facebook: https://www.facebook.com/teofiluscandra
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@teofilus](https://medium.com/@teofiluscandra)
+
++ **Teno Siswono**
+  - Skills: #React, #Vue, #NodeJs, #Typescript
+  - Github: [tenosiswono](https://github.com/tenosiswono)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## U
@@ -498,6 +554,15 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## V
+
++ **Velta Azizah Destiana**
+  - Skills: N/A
+  - Github: Github: [veltadestiana](https://github.com/veltadestiana)
+  - Facebook: N/A
+  - Twitter: [@velta__](https://twitter.com/velta__)
+  - LinkedIn: [Velta Azizah Destiana](https://www.linkedin.com/in/velta/)
+  - Blog: N/A
+  - Medium: [@velta](https://medium.com/@velta)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -513,11 +578,11 @@
 
 + **Yohan Totting**
   - Skills: #WebPlatform
-  - Github: N/A
+  - Github: [@tyohan](https://github.com/tyohan)
   - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Twitter: [Yohan Totting](https://twitter.com/tyohan)
+  - LinkedIn: [Yohan Totting](https://id.linkedin.com/in/tyohan)
+  - Blog: [tyohan.me](https://tyohan.me/)
   - Medium: [@tyohan](https://medium.com/@tyohan)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
@@ -525,11 +590,11 @@
 ## Z
 
 + **Zain Fathoni**
-  - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
+  - Skills: #React #Express.js #AngularJS
+  - Github: N/A [Zain Fathoni](https://github.com/zainfathoni)
+  - Facebook: N/A [Zain Fathoni](https://www.facebook.com/zain.fathoni)
+  - Twitter: N/A [Zain Fathoni](https://twitter.com/zainfathoni)
+  - LinkedIn: [Zain Fathoni](https://www.linkedin.com/in/zainfathoni/?originalSubdomain=id)
   - Blog: N/A
   - Medium: [@zain.fathoni](https://medium.com/@zain.fathoni)
 
