@@ -204,13 +204,13 @@
   - Medium: N/A
 
 + **Fariz Rizaldy**
-  - Skills: N/A
-  - Github: N/A
+  - Skills: #Node, #React, #Vue, #Docker
+  - Github: [faultable](https://github.com/faultable)
   - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
-  - Medium: [@108kb](https://medium.com/@108kb)
+  - Twitter: [faultable](https://twitter.com/faultable)
+  - LinkedIn: [faultable](https://linkedin.com/in/faultable)
+  - Blog: [faultable.dev](https://faultable.dev)
+  - Medium: N/A
   
 + **Fatih Kalifa**
   - Skills: #React, #NodeJS, #ReasonML, #Svelte, #Rust, #GraphQL
@@ -310,13 +310,13 @@
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
 + **Julian Alimin**
-  - Skills: #Angular, #NodeJS
+  - Skills: #Angular, #NodeJS, #Ionic, #Typescript, #Javascript, #Kubernetes, #Docker, #Gitlab-CI
   - Github: [dmastag](https://github.com/dmastag)
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
-  - Medium: N/A
+  - Facebook: [Julian Alimin](https://github.com/julianalimin)
+  - Twitter: [Julian Alimin](https://twitter.com/julianalimin)
+  - LinkedIn: [Julian Alimin](https://www.linkedin.com/in/julianalimin)
+  - Blog: [Julian Alimin](https://julianalimin.com)
+  - Medium: [Julian Alimin](https://medium.com/@julianalimin)
   
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -375,6 +375,15 @@
   - Blog: N/A
   - Medium: N/A
   
++ **Muhammad Rivki**
+  - Skills: #React, #NodeJS, #Vue, #Typescript
+  - Github: [mikqi](https://github.com/mikqi)
+  - Facebook: [Muhammad Rivki](https://www.facebook.com/this.rivki)
+  - Twitter: [@__mikqi](https://twitter.com/__mikqi)
+  - LinkedIn: [@muhammadrivki](https://www.linkedin.com/in/muhammadrivki/)
+  - Blog: [blog.rivki.id](https://blog.rivki.id/)
+  - Medium: N/A
+
 + **Muhibbudin Suretno**
   - Skills: #NodeJS, #Vue, #TypeScript #GraphQL
   - Github: [@muhibbudins](https://github.com/muhibbudins)
